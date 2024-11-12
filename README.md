@@ -1,3 +1,6 @@
+
+![A WAY OUT](https://i.imgur.com/klv8cl2.png)
+
 # Código Misterioso - A Way Out
     Dia 12 de novembro...
     Ano 2024
