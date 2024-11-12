@@ -1,10 +1,11 @@
 
-![A WAY OUT](https://i.imgur.com/klv8cl2.png)
+![A WAY OUT](https://i.imgur.com/SmkVqQW.png)
 
 # Código Misterioso - A Way Out
+    Roma, Itália
     Dia 12 de novembro...
     Ano 2024
-Você acaba de ser preso por homicídio doloso e é colocado dentro de umas das 120 celas contidas na prisão, seu único objetivo é:
+Em uma de suas aventuras em busca da história de Roma, você se meteu em um conflito, foi preso por homicídio e colocado dentro de umas das 120 celas contidas na prisão, seu único objetivo é:
 
 **ESCAPAR.**
 ## A cela...
@@ -20,19 +21,19 @@ Ao chegar em sua cela com a colher que você pegou do refeitório, você irá de
 
 Para desparafusar o vaso, resolva o primeiro código:
 
-    DESPARAFUSANDO O VASO.cpp
+    DESPARAFUSANDO O VASO 1.cpp
 
 Agora que finalmente encontrou a passagem, você irá passar por ela em busca de uma saída para finalmente escapar da cadeia.
 
 Para encontrar a saída, resolva o segundo código:
 
-    ACHANDO A SAÍDA.cpp
+    ACHANDO A SAÍDA 2.cpp
 
 Finalmente, você chegou na última etapa do plano, onde você precisará escapar pela saída que você acabou de encontrar.
 
 Para fugir, você só precisa resolver o terceiro e último código:
 
-    ESCAPE!!.cpp
+    ESCAPE!! 3.cpp
 
 ## Fim
 Após conseguir escapar sucessivamente da prisão onde se encontrava, você pode finalmente terminar seu dia tomando uma bela de uma cervejinha e uma picanha das brabas, afinal, nem tudo são flores, e quem sabe você não acaba sendo preso futuramente por outro crime cometido...
