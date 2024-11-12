@@ -39,7 +39,7 @@ int main(){
 	
 	do{
 	printf("\nUtilizando as dicas dadas nos códigos já resolvidos, descubra a palavra criptografada (YHQFHGRU) e  insira a seguir: ");
-	scanf("%s", &palavra);
+	scanf(" %[^\n]", &palavra);
 	if(strcmp(palavra, "")==0){
 		printf("\nPalavra descoberta");
 	}
