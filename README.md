@@ -26,7 +26,7 @@ Agora que finalmente encontrou a passagem, você irá passar por ela em busca de
 
 Para encontrar a saída, resolva o segundo código:
 
-    EM BUSCA DE UMA SAIDA.cpp
+    ACHANDO A SAÍDA.cpp
 
 Finalmente, você chegou na última etapa do plano, onde você precisará escapar pela saída que você acabou de encontrar.
 
